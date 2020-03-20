@@ -4,6 +4,22 @@
 	<img src="pimpmyroku.png" alt="Pimp My Roku" />
 </p>
 
+## Tools
+
+https://devtools.web.roku.com/stream_tester/html/app/win/roku-stream-tester-win64-installer.exe
+https://devtools.web.roku.com/profiler/viewer/app/win/bsprof-visualization-tool-win64-installer.exe
+https://devtools.web.roku.com/roku-advanced-layout-editor/app/win/roku-advanced-layout-editor-win64-installer.exe
+https://devtools.web.roku.com/DeepLinkingTester/app/win/roku-deep-linking-tester-win64-installer.exe
+https://devtools.web.roku.com/RokuRemote/app/win/roku-remote-tool-win64-installer.exe
+https://devtools.web.roku.com/stream_tester/html/app/roku-stream-tester-linux64.zip
+https://devtools.web.roku.com/profiler/viewer/app/bsprof-visualization-tool-linux64.zip
+https://devtools.web.roku.com/roku-advanced-layout-editor/app/roku-advanced-layout-editor-linux64.zip
+https://devtools.web.roku.com/DeepLinkingTester/app/roku-deep-linking-tester-linux64.zip
+https://devtools.web.roku.com/RokuRemote/app/roku-remote-tool-linux64.zip
+https://devtools.web.roku.com/roku-advanced-layout-editor/app/TrackerTask.zip
+https://devtools.web.roku.com/static-channel-analysis/sca-cmd.zip
+https://raw.githubusercontent.com/rokudev/hello-world/master/dist/apps/hello-world.zip
+
 ## Documentation
 
 * [Playing Videos | Roku Developer](https://developer.roku.com/docs/developer-program/core-concepts/playing-videos.md)
