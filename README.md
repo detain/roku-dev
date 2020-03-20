@@ -1,5 +1,7 @@
 # roku-dev
 
+## Documentation
+
 * [Playing Videos | Roku Developer](https://developer.roku.com/docs/developer-program/core-concepts/playing-videos.md)
 * [Screensavers | Roku Developer](https://developer.roku.com/docs/developer-program/media-playback/screensavers.md)
 * [Implementing Hello World! | Roku Developer](https://developer.roku.com/docs/developer-program/getting-started/hello-world.md)
@@ -8,6 +10,10 @@
 * [Packaging Roku channels | Roku Developer](https://developer.roku.com/docs/developer-program/publishing/packaging-channels.md)
 * [ChannelStore | Roku Developer](https://developer.roku.com/docs/references/scenegraph/control-nodes/channelstore.md)
 * [Web Service API | Roku Developer](https://developer.roku.com/docs/developer-program/roku-pay/roku-web-service.md)
+
+
+## Roku Repos
+
 * [rokudev/samples: Collection of sample channels for side-loading on your Roku device](https://github.com/rokudev/samples)
 * [rokudev/SceneGraphDeveloperExtensions](https://github.com/rokudev/SceneGraphDeveloperExtensions)
 * [rokudev/automated-channel-testing: Roku Automated Channel Testing: Selenium-based WebDriver + Robot Framework + Samples](https://github.com/rokudev/automated-channel-testing)
@@ -30,3 +36,4 @@
 * [rokudev/fading-screensaver: a screensaver demonstrating fading animations](https://github.com/rokudev/fading-screensaver)
 * [rokudev/quadrant-screensaver: a screensaver demonstrating a quadrant transition animation](https://github.com/rokudev/quadrant-screensaver)
 * [rokudev/tv-safe-zone-channel: A channel that demonstrates the TV safe zones for Titles and Action in the UI](https://github.com/rokudev/tv-safe-zone-channel)
+
