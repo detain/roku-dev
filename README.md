@@ -1,7 +1,7 @@
 # roku-dev
 
 <p align="center">
-	<img src="pimpmyroku.gif" alt="Pimp My Roku" />
+	<img src="pimpmyroku.png" alt="Pimp My Roku" />
 </p>
 
 ## Documentation
