@@ -1,5 +1,9 @@
 # roku-dev
 
+<p align="center">
+	<img src="pimpmyroku.gif" alt="Pimp My Roku" />
+</p>
+
 ## Documentation
 
 * [Playing Videos | Roku Developer](https://developer.roku.com/docs/developer-program/core-concepts/playing-videos.md)
