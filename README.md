@@ -36,7 +36,7 @@
 * [rokudev/fading-screensaver: a screensaver demonstrating fading animations](https://github.com/rokudev/fading-screensaver)
 * [rokudev/quadrant-screensaver: a screensaver demonstrating a quadrant transition animation](https://github.com/rokudev/quadrant-screensaver)
 * [rokudev/tv-safe-zone-channel: A channel that demonstrates the TV safe zones for Titles and Action in the UI](https://github.com/rokudev/tv-safe-zone-channel)
-
+* [raboud/Roku-Optimal: Specialized Roku screensaver for Optimal](https://github.com/raboud/Roku-Optimal)
 
 ## More Links
 
